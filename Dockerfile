@@ -16,3 +16,4 @@ RUN chgrp -R 0 /go/bin \
 ENTRYPOINT  /entrypoint.sh 
 
 EXPOSE 8080
+
